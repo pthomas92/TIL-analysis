@@ -1,4 +1,0 @@
-read_files = list.files('TCRseq/Ari_mouse_samples', pattern = '.tsv.gz$', full.names = T)
-repertoires = lapply(read_files, read.delim)
-names(repertoires) = gsub('^.*?/dcr_(.*?).tsv.gz', '\\1', read_files)
-
