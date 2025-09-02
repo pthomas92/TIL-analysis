@@ -1,6 +1,5 @@
 
-```markdown
-# TCR Analysis Pipeline
+# TCR Analysis Workflow
 
 This repository contains scripts and notebooks for analyzing T-cell receptor (TCR) sequencing data, including distance calculations, clustering, diversity, and overlap analyses for both alpha and beta chains. The pipeline is organized to allow stepwise processing from raw data to summary outputs.
 
@@ -137,9 +136,3 @@ Analyzes overlap of TCR clusters across samples or mice.
 
 * All scripts support both **alpha** and **beta chains**, with output stored under `outputs/{chain}/tcrdist/`.
 
-```
-
-I can also make a **slightly fancier version** with a **diagram of the workflow** showing how data flows through each script if you want—this is often very helpful for new users.  
-
-Do you want me to add that diagram?
-```
