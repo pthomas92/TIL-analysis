@@ -1,7 +1,14 @@
+# don't upload results
 outputs/
+Basic results interpretation.docx
+# don't upload sequencing data
 Translated/
 TCRseq/
 Translated.zip
+# don't upload defunct scripts
 _archive/
+# don't upload sample metadata
 Ari Fassati samples comparison Feb 2025.xlsx
-Basic results interpretation.docx
+# don't upload hidden system files
+.DS_Store
+.Rhistory
