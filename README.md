@@ -1,7 +1,7 @@
 
 # TCR Analysis Workflow
 
-This repository contains scripts and notebooks for analyzing T-cell receptor (TCR) sequencing data, including distance calculations, clustering, diversity, and overlap analyses for both alpha and beta chains. The pipeline is organized to allow stepwise processing from raw data to summary outputs.
+This repository contains scripts and notebooks for analyzing T-cell receptor (TCR) sequencing data, including distance calculations, clustering, diversity, and overlap analyses for both alpha and beta chains. The pipeline is organized to allow stepwise processing from raw data to summary outputs. No example data is provided in this directory, as it is private.
 
 ---
 
